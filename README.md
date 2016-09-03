@@ -1,2 +1,2 @@
 # python_primer
-Python Tutorials for North West Florida Python and Linux Users Group (NWFPLUG)
+Introdictory Python Tutorials provided by North West Florida Python and Linux Users Group (NWFPLUG)
